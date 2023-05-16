@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525740265392",
+    "project_id": "monitoringkerjabsi",
+    "storage_bucket": "monitoringkerjabsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525740265392:android:7f5845b3364f48bd0a1075",
+        "android_client_info": {
+          "package_name": "com.example.app_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525740265392-as06b1spqne6a6e6d81tc4f7cvlrkju7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4Dojjl8p60lftjrYI0tljaypabBHZsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525740265392-as06b1spqne6a6e6d81tc4f7cvlrkju7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
